@@ -1,6 +1,6 @@
 INDEX.HTML
 
-<!DOCTYPE html>: Define o tipo de documento como HTML5.
+<!DOCTYPE html>
 <html lang="en">: Elemento raiz HTML com atributo de idioma definido como inglês.
 <head>: Contém metadados e referências para recursos externos.
 Meta tags: Especificam a codificação de caracteres, compatibilidade com o navegador e configuração de viewport para dispositivos móveis.
@@ -32,7 +32,7 @@ Botões dentro de <div class="todo">:
 
   JAVA.JS
 
-API_URL: URL base da API JSONPlaceholder para interação com os dados de tarefas.
+API_URL: 
 Seleção de Elementos: Variáveis que armazenam referências a elementos do DOM para interação e manipulação, como formulários, inputs, botões e a lista de tarefas.
 getTodos(): Realiza uma requisição assíncrona para obter todas as tarefas da API. Limpa o conteúdo atual da todoList e adiciona cada tarefa ao DOM usando a função addTodoToDOM().
 function addTodoToDOM(todo)
