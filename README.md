@@ -30,7 +30,7 @@ Botões dentro de <div class="todo">:
 .edit-todo: Permite editar a tarefa.
 .remove-todo: Remove a tarefa da lista.
 
-JAVA.JS
+  JAVA.JS
 
 API_URL: URL base da API JSONPlaceholder para interação com os dados de tarefas.
 Seleção de Elementos: Variáveis que armazenam referências a elementos do DOM para interação e manipulação, como formulários, inputs, botões e a lista de tarefas.
